@@ -397,7 +397,6 @@ TYPEINFO_NEW(/turf/unsimulated/wall/auto/adventure/ancient/artifact_fissure)
 
 /area/artifact_fissure/visual_mirror
 	name = "artifact fissure visual mirror zone"
-	force_fullbright = TRUE
 
 #undef NORTH_ENTRANCE
 #undef EAST_ENTRANCE
