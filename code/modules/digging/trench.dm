@@ -148,6 +148,11 @@
 	icon_state = "trench-0"
 	pass_unstable = TRUE
 	edge_priority_level = FLOOR_AUTO_EDGE_PRIORITY_TRENCH
+	// Trenches don't have a functioning burnt overlay at the moment.
+	// They can't be repaired either-- how would you pry up a trench and retile it?
+	can_burn = FALSE
+	// Not only does prying up a trench not make sense, it's also incredibly buggy!
+	pryable = FALSE
 
 	var/old_type
 
