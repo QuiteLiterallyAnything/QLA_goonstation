@@ -32634,6 +32634,9 @@
 	},
 /turf/simulated/floor/sanitary,
 /area/station/medical/head)
+"ocJ" = (
+/turf/space/fluid,
+/area/space)
 "ocM" = (
 /obj/mapping_helper/wingrille_spawn/auto/reinforced,
 /obj/cable{
@@ -96197,7 +96200,7 @@ bzS
 bzS
 bzS
 bzS
-rJg
+ocJ
 bzS
 bzS
 bzS
@@ -96499,7 +96502,7 @@ bzS
 bzS
 bzS
 rJg
-kDa
+rJg
 rJg
 bzS
 bzS
@@ -96801,7 +96804,7 @@ bzS
 bzS
 klC
 weL
-weL
+kDa
 weL
 jEY
 bzS

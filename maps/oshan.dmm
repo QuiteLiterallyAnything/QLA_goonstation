@@ -24342,6 +24342,9 @@
 /obj/mapping_helper/firedoor_spawn,
 /turf/simulated/floor/plating,
 /area/station/maintenance/disposal)
+"cyO" = (
+/turf/space,
+/area/space)
 "cyT" = (
 /obj/table/reinforced/auto,
 /obj/machinery/cashreg{
@@ -72895,7 +72898,7 @@ aqn
 aqn
 aqn
 aqn
-puB
+cyO
 aqn
 aqn
 aqn
@@ -73197,7 +73200,7 @@ aqn
 aqn
 qvl
 wdN
-wdN
+puB
 wdN
 sNM
 aqn
