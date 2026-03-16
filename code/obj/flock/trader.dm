@@ -54,9 +54,9 @@ TYPEINFO(/turf/simulated/floor/shuttlebay/flock)
 	icon = 'icons/misc/featherzone-160x160.dmi'
 	icon_state = "shuttle-nose"
 	layer = EFFECTS_LAYER_BASE
-	pixel_x = -64
+	pixel_x = -96
 	pixel_y = -64
-	opacity = 0
+	opacity = 1
 
 ///////////////////////////
 // FLOCK FAKEOBJECT PARENT

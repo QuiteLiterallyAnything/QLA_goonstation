@@ -5269,11 +5269,6 @@
 /obj/lattice/flock,
 /turf/space,
 /area/space)
-"aCi" = (
-/turf/simulated/shuttle/wall/cockpit/flock{
-	dir = 8
-	},
-/area/space)
 "aCr" = (
 /obj/machinery/door/feather/trader{
 	dir = 8
@@ -21425,6 +21420,11 @@
 /obj/mapping_helper/wingrille_spawn/auto,
 /turf/simulated/floor/plating,
 /area/diner/hallway)
+"qcD" = (
+/turf/simulated/shuttle/wall/cockpit/flock{
+	dir = 8
+	},
+/area/flock_trader)
 "qcP" = (
 /obj/table/reinforced/bar/auto,
 /obj/item/shaker/pepper{
@@ -90687,7 +90687,7 @@ aaa
 aaa
 aaa
 aaa
-aCi
+aaa
 aaa
 aaa
 aaa
@@ -90989,7 +90989,7 @@ aaa
 aaa
 anF
 aoz
-aoz
+qcD
 aoz
 aDV
 aaa
